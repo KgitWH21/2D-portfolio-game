@@ -12,7 +12,7 @@ export const dialogueData = {
        It is my hope this free guide allows others to enjoy Japanese." He just left it out <a href="https://keithhayden.net/tower-of-babbling-japanese/" target="_blank_">here.</a>`,
     tv: `It's the TV. There are 4 channels: 1) <a href="https://youtu.be/_DhX-6EV2UQ" target="_blank_">music</a>
     2) <a href="https://militarygametechfiction.carrd.co/" target="_blank_">military game tech fiction</a>
-    3) <a href="https://militarygametechfiction.carrd.co/" target="_blank_">Cereus & Limnic</a>
+    3) <a href="https://khayden22.gumroad.com/l/cereus-limnic" target="_blank_">Cereus & Limnic</a>
     4) <a href="https://cereus-limnic-part-one-jp.carrd.co/" target="_blank_">セレウス&リムニク</a>. The rest is static.`, 
     exit: `A sign on the door reads: To exit Keith's office close the tab. What did you create today? Nothing? Get busy! - Keith`,
     
